@@ -6,6 +6,7 @@ cp dotfiles/config/hypr ~/.config -r
 ./scripts/yay.sh
 ./scripts/neovim.sh
 ./scripts/docker.sh
+./scripts/tmux.sh
 
 #install chrome
 yay -S google-chrome
