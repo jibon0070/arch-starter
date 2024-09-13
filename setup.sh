@@ -1,5 +1,7 @@
 sudo pacman -Syu
 
+./scripts/rofi.sh
+
 # setup shortcuts
 cp dotfiles/config/hypr ~/.config -r
 
