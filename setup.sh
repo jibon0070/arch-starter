@@ -25,3 +25,5 @@ sudo pacman -S zip unzip bluez bluez-utils blueman
 
 sudo systemctl enable bluetooth
 sudo systemctl start bluetooth
+
+sudo pacman -S --needed ttf-cascadia-code-nerd
