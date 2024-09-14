@@ -1,7 +1,7 @@
 sudo pacman -Syu
 
 ./scripts/rofi.sh
-
+sudo pacman -S --needed hyprlock
 # setup shortcuts
 cp dotfiles/config/hypr ~/.config -r
 
