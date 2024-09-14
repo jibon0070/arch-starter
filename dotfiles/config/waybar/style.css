@@ -99,3 +99,9 @@ window#waybar {
 .modules-right {
   margin-right: 5px;
 }
+
+.modules-center {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 1.5em;
+  padding: 0 10px;
+}
