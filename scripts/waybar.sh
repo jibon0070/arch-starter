@@ -1,3 +1,3 @@
 sudo pacman -S --needed waybar
 
-cp dotfiles/waybar/* ~/.config/ -r
+cp dotfiles/config/waybar/ ~/.config/ -r
