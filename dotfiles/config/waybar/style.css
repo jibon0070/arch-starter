@@ -47,7 +47,8 @@ window#waybar {
 #pulseaudio,
 #network,
 #clock,
-#custom-power {
+#custom-power,
+#custom-notifications {
   background-color: white;
   color: black;
   border-radius: 1.5em;
