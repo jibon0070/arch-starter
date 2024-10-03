@@ -19,6 +19,7 @@
     "network",
     "power-profiles-daemon",
     "clock",
+    "custom/notifications",
     "tray",
     "custom/power",
   ],
@@ -103,5 +104,9 @@
   "custom/power": {
     "format": "⏻",
     "on-click": "~/.config/waybar/power-menu.sh",
+  },
+  "custom/notifications": {
+    "format": "",
+    "on-click": "swaync-client -t",
   },
 }
