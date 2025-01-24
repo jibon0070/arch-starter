@@ -11,3 +11,6 @@ PS1='[\u@\h \W]\$ '
 
 alias ll='ls -la --color=auto'
 alias vi='nvim'
+
+export EDITOR=nvim
+export VISUAL=nvim
